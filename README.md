@@ -1,11 +1,11 @@
 # Indice
-[FormCad-Endereco](#formcad-endereco);
-[Descrição](#descrição);
-[Introdução](#introdução);
-[Funcionalidades](#funcionalidades);
-[Tecnologias utilizadas](#tecnologias-utilizdas);
-[Fontes consultadas](#fontes-consultadas);
-[Autores](#autores);
+* [FormCad-Endereco](#formcad-endereco)
+* [Descrição](#descrição)
+* [Introdução](#introdução)
+* [Funcionalidades](#funcionalidades)
+* [Tecnologias utilizadas](#tecnologias-utilizdas)
+* [Fontes consultadas](#fontes-consultadas)
+* [Autores](#autores)
 
 # FormCad-Endereco
  ![Capa do projeto](img/Capa.png.png)
