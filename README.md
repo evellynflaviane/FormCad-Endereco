@@ -24,7 +24,7 @@ O CEP (Código de Endereçamento Postal) é um conjunto numérico constituído d
 * ``Main.js``
 * ``Img``
 ## 📝Fontes consultadas
-* ``https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89``
-* ``https://www.alura.com.br/artigos/escrever-bom-readme``
+* https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+* https://www.alura.com.br/artigos/escrever-bom-readme
 ## 🖋️Autores
 Criado por Evellyn Flaviane com Auxilio do Professor Leonardo Rocha.
