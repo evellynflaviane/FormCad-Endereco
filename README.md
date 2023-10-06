@@ -8,7 +8,7 @@
 * [Autores](#autores)
 
 # 📁FormCad-Endereco
- ![Capa do projeto](img/Capa.png.png)
+ ![Capa do projeto](img/Captura%20de%20tela.png)
 
 # ✍️Descrição
 Este projeto é cadastro de endereço na onde você insire o cep com oito algarismos, e na onde aparece o nome do bairro, n° da casa, cidade, estado e endereço.
